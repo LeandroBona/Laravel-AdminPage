@@ -50,13 +50,7 @@ php artisan db:seed
 php artisan serve
 ```
 
-## 10. (Se houver frontend com Vite) Instalar dependências e rodar
-```bash
-npm install
-npm run dev
-```
-
-## 11. (Opcional) Executar os testes
+## 10. (Opcional) Executar os testes
 ```bash
 php artisan test
 ```
